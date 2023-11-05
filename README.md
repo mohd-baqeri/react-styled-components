@@ -3,7 +3,7 @@
 Live Preview of Landing Page:
 [https://main--reliable-sunburst-911bd5.netlify.app/](https://main--reliable-sunburst-911bd5.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
